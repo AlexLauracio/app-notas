@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # App Notas
 
 ![Licencia](https://img.shields.io/badge/licencia-MIT-green)
@@ -19,3 +20,7 @@ Aplicacion web sencilla para guardar notas desde el navegador. Pensada para estu
 - [Autor](#autor)
 
 ## Instalacion
+=======
+# app-notas
+Aplicacion web sencilla para guardar notas
+>>>>>>> 95e301ba929f23ceaa227692ac5510d16aaa5c5e
